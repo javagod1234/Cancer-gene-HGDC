@@ -1,0 +1,25 @@
+============================================================
+HGDC 全量复现启动  2026-10-10 13:32:44
+环境: hgdc   GPU: 0   结果目录: /root/private_data/users/wangxin/HGDC/experiment_results
+============================================================
+
+########## 模块 1/3：HGDC 主实验 ##########
+>>> HGDC 主实验 - GGNet（日志: /root/private_data/users/wangxin/HGDC/experiment_results/GGNet_HGDC_main.log）
+  [完成] GGNet HGDC 主实验
+>>> HGDC 主实验 - PathNet（日志: /root/private_data/users/wangxin/HGDC/experiment_results/PathNet_HGDC_main.log）
+  [完成] PathNet HGDC 主实验
+>>> HGDC 主实验 - PPNet（日志: /root/private_data/users/wangxin/HGDC/experiment_results/PPNet_HGDC_main.log）
+  [完成] PPNet HGDC 主实验
+
+########## 模块 2/3：基准模型对比 ##########
+>>> 基准模型：MTGCN
+  [完成] GGNet - MTGCN
+  [完成] PathNet - MTGCN
+  [完成] PPNet - MTGCN
+>>> 基准模型：EMOGI
+  [完成] GGNet - EMOGI
+  [完成] PathNet - EMOGI
+  [完成] PPNet - EMOGI
+>>> 基准模型：GCN
+  [完成] GGNet - GCN
+  [完成] PathNet - GCN

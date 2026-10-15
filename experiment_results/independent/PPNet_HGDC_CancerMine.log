@@ -1,0 +1,20 @@
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/llvmlite/binding/ffi.py:175: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import resource_filename
+Traceback (most recent call last):
+  File "/root/private_data/users/wangxin/HGDC/run_independent_test.py", line 47, in <module>
+    data = load_net_specific_data(args)
+  File "/root/private_data/users/wangxin/HGDC/data/data_loader.py", line 42, in load_net_specific_data
+    edge_index_aux = generate_auxiliary_graph(args, dataset)
+  File "/root/private_data/users/wangxin/HGDC/utils/auxiliary_graph_generator.py", line 84, in generate_auxiliary_graph
+    gdc = T.GDC(self_loop_weight=None, normalization_in='sym',
+  File "/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/transforms/gdc.py", line 87, in __init__
+    self.__calc_ppr__ = get_calc_ppr()
+  File "/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/transforms/gdc.py", line 543, in get_calc_ppr
+    import numba
+  File "/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/numba/__init__.py", line 42, in <module>
+    from numba.np.ufunc import (vectorize, guvectorize, threading_layer,
+  File "/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/numba/np/ufunc/__init__.py", line 3, in <module>
+    from numba.np.ufunc.decorators import Vectorize, GUVectorize, vectorize, guvectorize
+  File "/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/numba/np/ufunc/decorators.py", line 3, in <module>
+    from numba.np.ufunc import _internal
+SystemError: initialization of _internal failed without raising an exception

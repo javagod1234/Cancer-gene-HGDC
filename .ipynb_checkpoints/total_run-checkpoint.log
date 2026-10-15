@@ -1,0 +1,8 @@
+nohup: ignoring input
+============================================================
+HGDC 全量复现启动  2026-10-10 13:32:44
+环境: hgdc   GPU: 0   结果目录: /root/private_data/users/wangxin/HGDC/experiment_results
+============================================================
+
+########## 模块 1/3：HGDC 主实验 ##########
+>>> HGDC 主实验 - GGNet（日志: /root/private_data/users/wangxin/HGDC/experiment_results/GGNet_HGDC_main.log）

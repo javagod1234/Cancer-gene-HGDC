@@ -1,0 +1,34 @@
+nohup: ignoring input
+numpy 1.26.4 | numba 0.59.1 均可用
+CUDA 可用: True
+==================================================
+  实验五、六：HGDC 100 次重复训练
+  环境：hgdc | GPU：0
+  分数目录：/root/private_data/users/wangxin/HGDC/predicted_scores
+==================================================
+>>> 训练 HGDC ×100 - GGNet
+  ! 警告：GGNet 未生成分数文件，请查看日志 /root/private_data/users/wangxin/HGDC/experiment_results/exp56/GGNet_train100.log
+>>> 训练 HGDC ×100 - PathNet
+  - 完成，分数：/root/private_data/users/wangxin/HGDC/predicted_scores/predicted_scores_PathNet.txt
+>>> 训练 HGDC ×100 - PPNet
+  ! 警告：PPNet 未生成分数文件，请查看日志 /root/private_data/users/wangxin/HGDC/experiment_results/exp56/PPNet_train100.log
+
+==================================================
+  三个网络 100 次训练全部完成
+  分数文件：/root/private_data/users/wangxin/HGDC/predicted_scores/predicted_scores_<网络>.txt
+  下一步：运行 analyze_exp56.py 出实验五、六结果
+==================================================
+ores
+==================================================
+>>> 训练 HGDC ×100 - GGNet
+  - 完成，分数：/root/private_data/users/wangxin/HGDC/predicted_scores/predicted_scores_GGNet.txt
+>>> 训练 HGDC ×100 - PathNet
+  ! 警告：PathNet 未生成分数文件，请查看日志 /root/private_data/users/wangxin/HGDC/experiment_results/exp56/PathNet_train100.log
+>>> 训练 HGDC ×100 - PPNet
+  - 完成，分数：/root/private_data/users/wangxin/HGDC/predicted_scores/predicted_scores_PPNet.txt
+
+==================================================
+  三个网络 100 次训练全部完成
+  分数文件：/root/private_data/users/wangxin/HGDC/predicted_scores/predicted_scores_<网络>.txt
+  下一步：运行 analyze_exp56.py 出实验五、六结果
+==================================================

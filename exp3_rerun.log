@@ -1,0 +1,27 @@
+nohup: ignoring input
+==================================================
+  实验三：HGDC 独立测试集（OncoKB / CancerMine）
+  环境：hgdc | GPU：0
+  日志目录：/root/private_data/users/wangxin/HGDC/experiment_results/independent
+==================================================
+
+########## HGDC 独立测试 ##########
+>>> HGDC - GGNet - OncoKB
+  - 完成：GGNet HGDC OncoKB
+>>> HGDC - PathNet - OncoKB
+  - 完成：PathNet HGDC OncoKB
+>>> HGDC - PPNet - OncoKB
+  - 完成：PPNet HGDC OncoKB
+>>> HGDC - GGNet - CancerMine
+  - 完成：GGNet HGDC CancerMine
+>>> HGDC - PathNet - CancerMine
+run_experiment3.sh: line 58: 97161 Bus error               (core dumped) python run_independent_test.py --graph_diffusion "ppr" --ppr_alpha ${PPR_ALPHA} --ppr_eps ${PPR_EPS} --net_avg_deg ${AVG_DEG} --hk_t ${HK_T} --is_5_CV_test True --dataset_file "${DATASET}" --net_file "${NET_FILE}" --independent_set "${IND_NAME}" --independent_file "${IND_FILE}" --epochs ${HGDC_EPOCHS} --lr ${HGDC_LR} --w_decay ${W_DECAY} --in_channels ${IN_CHANNELS} --hidden_channels ${HIDDEN_CHANNELS} --device ${DEVICE} > "${LOG_FILE}" 2>&1
+  - 完成：PathNet HGDC CancerMine
+>>> HGDC - PPNet - CancerMine
+  - 完成：PPNet HGDC CancerMine
+
+==================================================
+  HGDC 独立测试全部完成，日志：/root/private_data/users/wangxin/HGDC/experiment_results/independent
+==================================================
+批量提取结果：
+   for f in /root/private_data/users/wangxin/HGDC/experiment_results/independent/*.log; do echo -n "$(basename $f): "; grep -E "Mean AUC" "$f" | tail -1; done

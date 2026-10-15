@@ -1,0 +1,72 @@
+nohup: ignoring input
+==================================================
+  HGDC 实验八复现（Figure 3C）
+  项目目录：/root/private_data/users/wangxin/HGDC
+  环境：hgdc
+  开始时间：2026-10-11 19:54:45
+==================================================
+Traceback (most recent call last):
+  File "<stdin>", line 4, in <module>
+AttributeError: module 'importlib' has no attribute 'util'
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/xenaPython/__init__.py:110: FutureWarning: Possible nested set at position 7
+  re.sub(r"^[^[]+[[]([^]]*)[]].*$", r"\1", query, flags=re.DOTALL))
+================================================================
+  HGDC 实验八：PDG 中可操作基因分布（Figure 3C）
+================================================================
+
+[1/4] 准备 mc3 突变数据 ...
+  BLCA 下载完成，病人 411，记录 136957
+  BRCA 下载完成，病人 791，记录 88432
+  CESC 下载完成，病人 289，记录 93386
+  COAD 下载完成，病人 290，记录 198618
+  ESCA 下载完成，病人 184，记录 43941
+  HNSC 下载完成，病人 507，记录 103563
+  KIRC 下载完成，病人 368，记录 28911
+  KIRP 下载完成，病人 281，记录 24383
+  LIHC 下载完成，病人 363，记录 55868
+  LUAD 下载完成，病人 513，记录 188413
+  LUSC 下载完成，病人 480，记录 176009
+  PRAD 下载完成，病人 495，记录 29287
+  READ 下载完成，病人 90，记录 31540
+  STAD 下载完成，病人 439，记录 206580
+  THCA 下载完成，病人 492，记录 7932
+  UCEC 下载完成，病人 447，记录 657085
+
+[2/4] 读取三网络 HGDC 预测分数 ...
+  载入 GGNet 分数，基因 11183 个
+  载入 PathNet 分数，基因 7695 个
+  载入 PPNet 分数，基因 11395 个
+  载入 TARGET 可操作基因 121 个
+
+[3/4] 逐病人识别 PDG 并统计 ...
+  BLCA：407 名病人
+  BRCA：786 名病人
+  CESC：280 名病人
+  COAD：251 名病人
+  ESCA：182 名病人
+  HNSC：504 名病人
+  KIRC：368 名病人
+  KIRP：281 名病人
+  LIHC：362 名病人
+  LUAD：507 名病人
+  LUSC：478 名病人
+  PRAD：492 名病人
+  READ：87 名病人
+  STAD：406 名病人
+  THCA：492 名病人
+  UCEC：374 名病人
+
+[4/4] 结果汇总 ...
+  病人总数：6257（论文 6257）
+  平均 PDG 数：4.95
+  含 >=1 个可操作基因的病人：4990（79.8%），论文 5131（82%）
+  结果 CSV：/root/private_data/users/wangxin/HGDC/experiment_results/exp8/exp8_actionable_distribution.csv
+  图像：/root/private_data/users/wangxin/HGDC/experiment_results/exp8/exp8_Fig3C_actionable_distribution.png
+
+实验八复现完成。
+==================================================
+  实验八执行完成，结束时间：2026-10-11 20:00:54
+  结果目录：/root/private_data/users/wangxin/HGDC/experiment_results/exp8
+  分布图：/root/private_data/users/wangxin/HGDC/experiment_results/exp8/exp8_Fig3C_actionable_distribution.png
+  分布表：/root/private_data/users/wangxin/HGDC/experiment_results/exp8/exp8_actionable_distribution.csv
+==================================================

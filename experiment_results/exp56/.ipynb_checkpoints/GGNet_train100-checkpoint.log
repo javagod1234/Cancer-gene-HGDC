@@ -1,0 +1,8 @@
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/sklearn/utils/__init__.py:21: UserWarning: A NumPy version >=1.22.4 and <2.3.0 is required for this version of SciPy (detected version 1.21.6)
+  from scipy.sparse import issparse
+Traceback (most recent call last):
+  File "/root/private_data/users/wangxin/HGDC/train_HGDC.py", line 30, in <module>
+    data = load_net_specific_data(args)
+  File "/root/private_data/users/wangxin/HGDC/data/data_loader.py", line 36, in load_net_specific_data
+    mask = dataset['mask']
+KeyError: 'mask'

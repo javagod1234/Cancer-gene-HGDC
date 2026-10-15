@@ -1,0 +1,5 @@
+usage: run_independent_test.py [-h] [--graph_diffusion GRAPH_DIFFUSION] [--ppr_alpha PPR_ALPHA] [--ppr_eps PPR_EPS] [--net_avg_deg NET_AVG_DEG] [--hk_t HK_T]
+                               [--is_5_CV_test IS_5_CV_TEST] [--dataset_file DATASET_FILE] [--net_file NET_FILE] [--independent_set INDEPENDENT_SET]
+                               [--independent_file INDEPENDENT_FILE] [--epochs EPOCHS] [--lr LR] [--w_decay W_DECAY] [--in_channels IN_CHANNELS] [--hidden_channels HIDDEN_CHANNELS]
+                               [--device DEVICE]
+run_independent_test.py: error: unrecognized arguments: --model HGDC

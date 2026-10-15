@@ -36,7 +36,7 @@ class HGDCNet(torch.nn.Module):
     def forward(self, data):
         x_input = data.x
         edge_index_1 = data.edge_index
-        edge_index_2 = data.edge_index_aux
+        edge_index_2 = getattr(data, "edge_index_aux", data.edge_index)
 
         edge_index_1, _ = dropout_adj(edge_index_1, p=0.5,
                                       force_undirected=True,

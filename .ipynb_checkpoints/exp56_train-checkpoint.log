@@ -1,0 +1,14 @@
+nohup: ignoring input
+当前 numpy 不符合要求（需 >=1.22.4 且 <2.0），自动安装 numpy==1.26.4 ...
+  WARNING: Failed to remove contents in a temporary directory '/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/~umpy'.
+  You can safely remove it manually.
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+numba 0.55.2 requires numpy<1.23,>=1.18, but you have numpy 1.26.4 which is incompatible.
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager, possibly rendering your system unusable. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv. Use the --root-user-action option if you know what you are doing and want to suppress this warning.
+CUDA 可用: True
+==================================================
+  实验五、六：HGDC 100 次重复训练
+  环境：hgdc | GPU：0
+  分数目录：/root/private_data/users/wangxin/HGDC/predicted_scores
+==================================================
+>>> 训练 HGDC ×100 - GGNet

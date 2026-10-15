@@ -1,0 +1,23 @@
+nohup: ignoring input
+torch = 2.0.1+cu117 | torch.isin = True | CUDA = True
+============================================================
+MTGCN 复现启动（仅 MTGCN × 3 网络）  2026-10-15 11:13:12
+环境: hgdc   GPU: 0   结果目录: /root/private_data/users/wangxin/HGDC/experiment_results
+============================================================
+>>> MTGCN - GGNet（日志: /root/private_data/users/wangxin/HGDC/experiment_results/GGNet_MTGCN_baseline.log）
+  [完成] GGNet - MTGCN
+>>> MTGCN - PathNet（日志: /root/private_data/users/wangxin/HGDC/experiment_results/PathNet_MTGCN_baseline.log）
+  [完成] PathNet - MTGCN
+>>> MTGCN - PPNet（日志: /root/private_data/users/wangxin/HGDC/experiment_results/PPNet_MTGCN_baseline.log）
+  [完成] PPNet - MTGCN
+
+============================================================
+MTGCN 全部执行完成  2026-10-15 12:13:08
+------------------------------------------------------------
+GGNet_MTGCN_baseline.log : MTGCN 10 rounds for 5CV-- Mean AUC: 0.8156, Mean AUPR: 0.7434
+PathNet_MTGCN_baseline.log : MTGCN 10 rounds for 5CV-- Mean AUC: 0.8442, Mean AUPR: 0.8288
+PPNet_MTGCN_baseline.log : MTGCN 10 rounds for 5CV-- Mean AUC: 0.8194, Mean AUPR: 0.7382
+------------------------------------------------------------
+进度日志：/root/private_data/users/wangxin/HGDC/experiment_results/run_mtgcn_console.log
+结果汇总：/root/private_data/users/wangxin/HGDC/experiment_results/results_summary_mtgcn.txt
+============================================================

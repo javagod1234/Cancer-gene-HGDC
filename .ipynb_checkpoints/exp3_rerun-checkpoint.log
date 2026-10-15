@@ -1,0 +1,9 @@
+nohup: ignoring input
+==================================================
+  实验三：HGDC 独立测试集（OncoKB / CancerMine）
+  环境：hgdc | GPU：0
+  日志目录：/root/private_data/users/wangxin/HGDC/experiment_results/independent
+==================================================
+
+########## HGDC 独立测试 ##########
+>>> HGDC - GGNet - OncoKB

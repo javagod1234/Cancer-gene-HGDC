@@ -1,0 +1,167 @@
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/sklearn/utils/__init__.py:21: UserWarning: A NumPy version >=1.22.4 and <2.3.0 is required for this version of SciPy (detected version 1.21.6)
+  from scipy.sparse import issparse
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/llvmlite/binding/ffi.py:175: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  from pkg_resources import resource_filename
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+Auxiliary graph of ppr is finished...
+HGDC  OncoKB  Round--0 CV--1  AUC: 0.72292, AUPR: 0.87475  (独立正:581, 负:220)
+HGDC  OncoKB  Round--0 CV--2  AUC: 0.73314, AUPR: 0.87613  (独立正:571, 负:220)
+HGDC  OncoKB  Round--0 CV--3  AUC: 0.74551, AUPR: 0.89290  (独立正:574, 负:220)
+HGDC  OncoKB  Round--0 CV--4  AUC: 0.71635, AUPR: 0.87648  (独立正:578, 负:221)
+HGDC  OncoKB  Round--0 CV--5  AUC: 0.75308, AUPR: 0.88228  (独立正:579, 负:220)
+Round--0 Mean AUC: 0.73420, Mean AUPR: 0.88051
+HGDC  OncoKB  Round--1 CV--1  AUC: 0.73270, AUPR: 0.87865  (独立正:577, 负:220)
+HGDC  OncoKB  Round--1 CV--2  AUC: 0.74928, AUPR: 0.89483  (独立正:575, 负:220)
+HGDC  OncoKB  Round--1 CV--3  AUC: 0.70987, AUPR: 0.86218  (独立正:578, 负:220)
+HGDC  OncoKB  Round--1 CV--4  AUC: 0.74598, AUPR: 0.88742  (独立正:576, 负:221)
+HGDC  OncoKB  Round--1 CV--5  AUC: 0.73478, AUPR: 0.87771  (独立正:577, 负:220)
+Round--1 Mean AUC: 0.73452, Mean AUPR: 0.88016
+HGDC  OncoKB  Round--2 CV--1  AUC: 0.72990, AUPR: 0.87782  (独立正:575, 负:220)
+HGDC  OncoKB  Round--2 CV--2  AUC: 0.75963, AUPR: 0.89091  (独立正:574, 负:220)
+HGDC  OncoKB  Round--2 CV--3  AUC: 0.74535, AUPR: 0.88220  (独立正:577, 负:220)
+HGDC  OncoKB  Round--2 CV--4  AUC: 0.72728, AUPR: 0.88084  (独立正:585, 负:221)
+HGDC  OncoKB  Round--2 CV--5  AUC: 0.71606, AUPR: 0.87532  (独立正:572, 负:220)
+Round--2 Mean AUC: 0.73564, Mean AUPR: 0.88142
+HGDC  OncoKB  Round--3 CV--1  AUC: 0.73923, AUPR: 0.88940  (独立正:580, 负:220)
+HGDC  OncoKB  Round--3 CV--2  AUC: 0.73005, AUPR: 0.87725  (独立正:576, 负:220)
+HGDC  OncoKB  Round--3 CV--3  AUC: 0.72869, AUPR: 0.87723  (独立正:579, 负:220)
+HGDC  OncoKB  Round--3 CV--4  AUC: 0.72872, AUPR: 0.87323  (独立正:570, 负:221)
+HGDC  OncoKB  Round--3 CV--5  AUC: 0.74577, AUPR: 0.88565  (独立正:578, 负:220)
+Round--3 Mean AUC: 0.73449, Mean AUPR: 0.88055
+HGDC  OncoKB  Round--4 CV--1  AUC: 0.73116, AUPR: 0.87637  (独立正:577, 负:220)
+HGDC  OncoKB  Round--4 CV--2  AUC: 0.70427, AUPR: 0.86645  (独立正:583, 负:220)
+HGDC  OncoKB  Round--4 CV--3  AUC: 0.73284, AUPR: 0.88051  (独立正:573, 负:220)
+HGDC  OncoKB  Round--4 CV--4  AUC: 0.75822, AUPR: 0.88683  (独立正:570, 负:221)
+HGDC  OncoKB  Round--4 CV--5  AUC: 0.74199, AUPR: 0.88315  (独立正:580, 负:220)
+Round--4 Mean AUC: 0.73370, Mean AUPR: 0.87866
+HGDC  OncoKB  Round--5 CV--1  AUC: 0.72452, AUPR: 0.87111  (独立正:570, 负:220)
+HGDC  OncoKB  Round--5 CV--2  AUC: 0.73181, AUPR: 0.88352  (独立正:583, 负:220)
+HGDC  OncoKB  Round--5 CV--3  AUC: 0.76576, AUPR: 0.89673  (独立正:582, 负:220)
+HGDC  OncoKB  Round--5 CV--4  AUC: 0.73031, AUPR: 0.87518  (独立正:571, 负:221)
+HGDC  OncoKB  Round--5 CV--5  AUC: 0.71738, AUPR: 0.87313  (独立正:577, 负:220)
+Round--5 Mean AUC: 0.73396, Mean AUPR: 0.87993
+HGDC  OncoKB  Round--6 CV--1  AUC: 0.73252, AUPR: 0.88054  (独立正:580, 负:220)
+HGDC  OncoKB  Round--6 CV--2  AUC: 0.73007, AUPR: 0.87704  (独立正:577, 负:220)
+HGDC  OncoKB  Round--6 CV--3  AUC: 0.69968, AUPR: 0.85904  (独立正:577, 负:220)
+HGDC  OncoKB  Round--6 CV--4  AUC: 0.75473, AUPR: 0.89084  (独立正:571, 负:221)
+HGDC  OncoKB  Round--6 CV--5  AUC: 0.73712, AUPR: 0.88205  (独立正:578, 负:220)
+Round--6 Mean AUC: 0.73082, Mean AUPR: 0.87790
+HGDC  OncoKB  Round--7 CV--1  AUC: 0.74671, AUPR: 0.88876  (独立正:576, 负:220)
+HGDC  OncoKB  Round--7 CV--2  AUC: 0.75806, AUPR: 0.88947  (独立正:579, 负:220)
+HGDC  OncoKB  Round--7 CV--3  AUC: 0.72585, AUPR: 0.87881  (独立正:577, 负:220)
+HGDC  OncoKB  Round--7 CV--4  AUC: 0.72817, AUPR: 0.87561  (独立正:575, 负:221)
+HGDC  OncoKB  Round--7 CV--5  AUC: 0.72611, AUPR: 0.87526  (独立正:576, 负:220)
+Round--7 Mean AUC: 0.73698, Mean AUPR: 0.88158
+HGDC  OncoKB  Round--8 CV--1  AUC: 0.73686, AUPR: 0.88612  (独立正:573, 负:220)
+HGDC  OncoKB  Round--8 CV--2  AUC: 0.74876, AUPR: 0.88951  (独立正:581, 负:220)
+HGDC  OncoKB  Round--8 CV--3  AUC: 0.71168, AUPR: 0.87225  (独立正:577, 负:220)
+HGDC  OncoKB  Round--8 CV--4  AUC: 0.74716, AUPR: 0.88141  (独立正:581, 负:221)
+HGDC  OncoKB  Round--8 CV--5  AUC: 0.72247, AUPR: 0.86956  (独立正:571, 负:220)
+Round--8 Mean AUC: 0.73339, Mean AUPR: 0.87977
+HGDC  OncoKB  Round--9 CV--1  AUC: 0.72580, AUPR: 0.87407  (独立正:577, 负:220)
+HGDC  OncoKB  Round--9 CV--2  AUC: 0.71729, AUPR: 0.86520  (独立正:570, 负:220)
+HGDC  OncoKB  Round--9 CV--3  AUC: 0.73439, AUPR: 0.88327  (独立正:587, 负:220)
+HGDC  OncoKB  Round--9 CV--4  AUC: 0.73601, AUPR: 0.88296  (独立正:579, 负:221)
+HGDC  OncoKB  Round--9 CV--5  AUC: 0.74653, AUPR: 0.89044  (独立正:570, 负:220)
+Round--9 Mean AUC: 0.73200, Mean AUPR: 0.87919
+============================================================
+HGDC on OncoKB 10×5CV -- Mean AUC: 0.7340, Mean AUPR: 0.8800

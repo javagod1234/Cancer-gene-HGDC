@@ -1,0 +1,3 @@
+GGNet_MTGCN_baseline.log : MTGCN 10 rounds for 5CV-- Mean AUC: 0.8156, Mean AUPR: 0.7434
+PathNet_MTGCN_baseline.log : MTGCN 10 rounds for 5CV-- Mean AUC: 0.8442, Mean AUPR: 0.8288
+PPNet_MTGCN_baseline.log : MTGCN 10 rounds for 5CV-- Mean AUC: 0.8194, Mean AUPR: 0.7382

@@ -1,0 +1,661 @@
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+/root/private_data/users/wangxin/miniconda3/envs/hgdc/lib/python3.9/site-packages/torch_geometric/deprecation.py:22: UserWarning: 'dropout_adj' is deprecated, use 'dropout_edge' instead
+  warnings.warn(out)
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--0 CV--1  AUC: 0.81655, AUPR: 0.73166
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--0 CV--2  AUC: 0.81476, AUPR: 0.75414
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--0 CV--3  AUC: 0.85634, AUPR: 0.82678
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--0 CV--4  AUC: 0.79519, AUPR: 0.71549
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--0 CV--5  AUC: 0.84191, AUPR: 0.76480
+Round--0 Mean AUC: 0.82495, Mean AUPR: 0.75858
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--1 CV--1  AUC: 0.83793, AUPR: 0.78447
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--1 CV--2  AUC: 0.81969, AUPR: 0.75090
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--1 CV--3  AUC: 0.76799, AUPR: 0.66530
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--1 CV--4  AUC: 0.83608, AUPR: 0.79971
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--1 CV--5  AUC: 0.80548, AUPR: 0.72972
+Round--1 Mean AUC: 0.81343, Mean AUPR: 0.74602
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--2 CV--1  AUC: 0.78742, AUPR: 0.69911
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--2 CV--2  AUC: 0.84677, AUPR: 0.80606
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--2 CV--3  AUC: 0.80074, AUPR: 0.72696
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--2 CV--4  AUC: 0.83024, AUPR: 0.75464
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--2 CV--5  AUC: 0.80874, AUPR: 0.72883
+Round--2 Mean AUC: 0.81478, Mean AUPR: 0.74312
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--3 CV--1  AUC: 0.81914, AUPR: 0.74344
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--3 CV--2  AUC: 0.80528, AUPR: 0.69846
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--3 CV--3  AUC: 0.82481, AUPR: 0.75689
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--3 CV--4  AUC: 0.81393, AUPR: 0.75973
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--3 CV--5  AUC: 0.80345, AUPR: 0.73586
+Round--3 Mean AUC: 0.81332, Mean AUPR: 0.73888
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--4 CV--1  AUC: 0.82375, AUPR: 0.76063
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--4 CV--2  AUC: 0.80403, AUPR: 0.74114
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--4 CV--3  AUC: 0.80909, AUPR: 0.74305
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--4 CV--4  AUC: 0.80909, AUPR: 0.69181
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--4 CV--5  AUC: 0.85397, AUPR: 0.77464
+Round--4 Mean AUC: 0.81999, Mean AUPR: 0.74225
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--5 CV--1  AUC: 0.81005, AUPR: 0.72021
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--5 CV--2  AUC: 0.83435, AUPR: 0.76260
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--5 CV--3  AUC: 0.84885, AUPR: 0.78399
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--5 CV--4  AUC: 0.79734, AUPR: 0.71529
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--5 CV--5  AUC: 0.78275, AUPR: 0.70608
+Round--5 Mean AUC: 0.81467, Mean AUPR: 0.73764
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--6 CV--1  AUC: 0.83393, AUPR: 0.77459
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--6 CV--2  AUC: 0.80506, AUPR: 0.72227
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--6 CV--3  AUC: 0.79651, AUPR: 0.70288
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--6 CV--4  AUC: 0.82061, AUPR: 0.74402
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--6 CV--5  AUC: 0.82424, AUPR: 0.78008
+Round--6 Mean AUC: 0.81607, Mean AUPR: 0.74477
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--7 CV--1  AUC: 0.81466, AUPR: 0.74522
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--7 CV--2  AUC: 0.81985, AUPR: 0.74878
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--7 CV--3  AUC: 0.81661, AUPR: 0.75435
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--7 CV--4  AUC: 0.83335, AUPR: 0.77780
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--7 CV--5  AUC: 0.78511, AUPR: 0.67848
+Round--7 Mean AUC: 0.81392, Mean AUPR: 0.74092
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--8 CV--1  AUC: 0.82164, AUPR: 0.76724
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--8 CV--2  AUC: 0.82506, AUPR: 0.77572
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--8 CV--3  AUC: 0.80042, AUPR: 0.72021
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--8 CV--4  AUC: 0.79933, AUPR: 0.70199
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--8 CV--5  AUC: 0.81254, AUPR: 0.73921
+Round--8 Mean AUC: 0.81180, Mean AUPR: 0.74087
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--9 CV--1  AUC: 0.76863, AUPR: 0.71331
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--9 CV--2  AUC: 0.79353, AUPR: 0.71017
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--9 CV--3  AUC: 0.81796, AUPR: 0.74847
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--9 CV--4  AUC: 0.82594, AUPR: 0.76358
+Training epoch: 100
+Training epoch: 200
+Training epoch: 300
+Training epoch: 400
+Training epoch: 500
+Training epoch: 600
+Training epoch: 700
+Training epoch: 800
+Training epoch: 900
+Training epoch: 1000
+Round--9 CV--5  AUC: 0.84819, AUPR: 0.77951
+Round--9 Mean AUC: 0.81085, Mean AUPR: 0.74301
+MTGCN 10 rounds for 5CV-- Mean AUC: 0.8154, Mean AUPR: 0.7436
