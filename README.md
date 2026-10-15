@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HGDC: Heterophilic graph diffusion convolutional network for identifying cancer driver genes
 
 ![Python 3.6](https://img.shields.io/badge/python-3.7-green.svg?style=plastic)
@@ -140,3 +141,7 @@ cancer genes and their associated molecular mechanisms [J]. Nature Machine Intel
 ## Contact
 If you have any questions, feel free to contact Tong Zhang through Email (2672@pdsu.edu.cn) or Github issues. Pull requests are highly welcomed!
 
+=======
+# Cancer-gene-HGDC
+用于癌症驱动基因HGDC实验的复现
+>>>>>>> c57987fa226900a437e5b7c76adf63ef124e2af4
